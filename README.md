@@ -4,7 +4,7 @@ Morizon is a 5-row version of the Horizon keyboard.
 
 This project is a direct modification of the Horizon project. The schematic and PCB have been modified to support this 5-row layout.
 
-Please refer to the [Horizon repository]([Horizon keyboard](https://github.com/skarrmann/horizon) for project documentation. Only Morizon-specific details are noted below!
+Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/horizon) for project documentation. Only Morizon-specific details are noted below!
 
 ## Current status
 
