@@ -11,8 +11,8 @@ Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/h
 * **COMPLETED**
     * 2022/02/05: Design Choc and MX boards
     * 2022/02/05: Write QMK firmware
+    * 2022/02/09: Final design inspection
 * **TODO**
-    * Final design inspection
     * Order PCBs from JLCPCB
     * Build keyboard
     * Add keyboard photos to this repo and QMK keyboard readme
