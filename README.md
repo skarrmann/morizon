@@ -12,8 +12,10 @@ Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/h
     * 2022/02/05: Design Choc and MX boards
     * 2022/02/05: Write QMK firmware
     * 2022/02/09: Final design inspection
+    * 2022/02/10: Order PCBs from JLCPCB
+        * Note: I only ordered the MX board since I want to spend less money, and I have spare MX switches.
+        * The Choc board is logically identical to the MX board, so physically confirming the MX design should suffice.
 * **TODO**
-    * Order PCBs from JLCPCB
     * Build keyboard
     * Add keyboard photos to this repo and QMK keyboard readme
     * Test QMK firmware on actual hardware, and submit PR to official QMK repo
