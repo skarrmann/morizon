@@ -16,17 +16,17 @@ Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/h
         * Note: I only ordered the MX board since I want to spend less money, and I have spare MX switches.
         * The Choc board is logically identical to the MX board, so physically confirming the MX design should suffice.
     * 2022/03/02: PCBs arrived and visually inspected. Everything looks good.
+    * 2022/03/05: Keyboard built. and QMK keyboard firmware definition was tested and works perfectly.
 * **TODO**
-    * Build keyboard
     * Add keyboard photos to this repo and QMK keyboard readme
-    * Test QMK firmware on actual hardware, and submit PR to official QMK repo
+    * Submit firmware PR to official QMK repo
     * Write ZMK firmware
 
 ## Keyboard firmware
 
 * QMK
     * Morizon keyboard is defined in [skarrmann's QMK fork, in branch `feature/morizon`](https://github.com/skarrmann/qmk_firmware/tree/feature/morizon/keyboards/morizon)
-    * I will make a pull request into the official QMK repo once the keyboard is physically built and tested.
+    * I will make a pull request into the official QMK repo soon.
 * ZMK
     * **TBD**
 
