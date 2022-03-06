@@ -2,31 +2,21 @@
 
 Morizon is a 5-row version of the Horizon keyboard.
 
-This project is a direct modification of the Horizon project. The schematic and PCB have been modified to support this 5-row layout.
+This project is a direct modification of the Horizon project. The schematic and PCBs have been modified to support this 5-row layout.
+
+As with Horizon, two separate PCB designs are available in the [`gerbers`](gerbers) folder: one for MX switches (19mm x 19mm spacing), and one for Choc switches (18mm x 17mm spacing).
 
 Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/horizon) for project documentation. Only Morizon-specific details are noted below!
 
-## Current status
+![Morizon MX top photo](images/morizon-mx-top.jpg)
 
-* **COMPLETED**
-    * 2022/02/05: Design Choc and MX boards
-    * 2022/02/05: Write QMK firmware
-    * 2022/02/09: Final design inspection
-    * 2022/02/10: Order PCBs from JLCPCB
-        * Note: I only ordered the MX board since I want to spend less money, and I have spare MX switches.
-        * The Choc board is logically identical to the MX board, so physically confirming the MX design should suffice.
-    * 2022/03/02: PCBs arrived and visually inspected. Everything looks good.
-    * 2022/03/05: Keyboard built. and QMK keyboard firmware definition was tested and works perfectly.
-* **TODO**
-    * Add keyboard photos to this repo and QMK keyboard readme
-    * Submit firmware PR to official QMK repo
-    * Write ZMK firmware
+![Morizon MX bottom photo](images/morizon-mx-bottom.jpg)
 
 ## Keyboard firmware
 
 * QMK
     * Morizon keyboard is defined in [skarrmann's QMK fork, in branch `feature/morizon`](https://github.com/skarrmann/qmk_firmware/tree/feature/morizon/keyboards/morizon)
-    * I will make a pull request into the official QMK repo soon.
+    * Pull request into QMK official repo is in progress
 * ZMK
     * **TBD**
 
