@@ -14,11 +14,8 @@ Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/h
 
 ## Keyboard firmware
 
-* QMK
-    * Morizon keyboard is defined in [skarrmann's QMK fork, in branch `feature/morizon`](https://github.com/skarrmann/qmk_firmware/tree/feature/morizon/keyboards/morizon)
-    * Pull request into QMK official repo is in progress
-* ZMK
-    * **TBD**
+* [QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/morizon)
+* ZMK: **TBD**
 
 ## Bill of materials
 
