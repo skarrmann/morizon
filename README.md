@@ -15,7 +15,8 @@ Please refer to the [Horizon keyboard repository](https://github.com/skarrmann/h
 ## Keyboard firmware
 
 * [QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/morizon)
-* ZMK: **TBD**
+* ZMK
+    * Morizon shield definition is in [skarrmann's zmk-config](https://github.com/skarrmann/zmk-config)
 
 ## Bill of materials
 
