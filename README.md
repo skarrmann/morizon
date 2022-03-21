@@ -34,3 +34,6 @@ Same as the [Horizon keyboard BOM](https://github.com/skarrmann/horizon/#bill-of
 * **Rev1** (2022-02-05)
     * PCB: Create MX and Choc boards with bottom and top plates (based on Horizon).
     * Schematic: Wire as 66 key 10x7 matrix.
+* **Rev1.1** (2022-03-21)
+    * PCB, Schematic: No physical changes. Files upgraded to KiCad 6, and Gerber files regenerated using Horizon Board Producer 2.3.
+
