@@ -36,4 +36,5 @@ Same as the [Horizon keyboard BOM](https://github.com/skarrmann/horizon/#bill-of
     * Schematic: Wire as 66 key 10x7 matrix.
 * **Rev1.1** (2022-03-21)
     * PCB, Schematic: No physical changes. Files upgraded to KiCad 6, and Gerber files regenerated using Horizon Board Producer 2.3.
-
+* **Rev1.2** (2023-11-09)
+    * PCB, Schematic: No physical changes. Files upgraded to KiCad 7, and Gerber files regenerated using Horizon Board Producer 2.4.
